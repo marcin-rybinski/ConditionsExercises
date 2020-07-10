@@ -1,0 +1,12 @@
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.exe
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.deps.json
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.runtimeconfig.json
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.runtimeconfig.dev.json
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.dll
+F:\repos\ConditionExercises\ConditionExercise5\bin\Debug\netcoreapp3.1\ConditionExercise5.pdb
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.AssemblyInfoInputs.cache
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.AssemblyInfo.cs
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.csproj.CoreCompileInputs.cache
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.dll
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.pdb
+F:\repos\ConditionExercises\ConditionExercise5\obj\Debug\netcoreapp3.1\ConditionExercise5.genruntimeconfig.cache
